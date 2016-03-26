@@ -2,12 +2,14 @@
 
 sources:
 
-Structure:
+structure:
 http://getbootstrap.com/css/
 
-Icons:
-https://fortawesome.github.io/Font-Awesome/icons/
+icons:
+https://fortawesome.github.io/
 
+Gulp, Bower and Yeoman 
 
+Generator Webapp  
 
-
+copyright © Amanda Leite
